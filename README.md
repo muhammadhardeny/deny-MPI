@@ -1,0 +1,2 @@
+# deny-MPI
+deny mpi
